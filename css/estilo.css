@@ -1,7 +1,16 @@
 body{
 background-color: #7B68EE
 
+
 }
+        .container{
+            width: auto;
+            margin: auto;
+
+        }
+        
+           
+
 body {
 
     text-align: center;
