@@ -6,9 +6,17 @@ background-color: #7B68EE
         .container{
             width: auto;
             margin: auto;
-
-        }
         
+
+        }h1{
+            text-align: center;
+        }
+        img{
+            width: 100%;
+        }
+        figure{
+            text-align: center;
+        }
            
 
 body {
