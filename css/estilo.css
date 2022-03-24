@@ -6,16 +6,35 @@ background-color: #7B68EE
         .container{
             width: 80%;
             margin: auto;
-        
+        }
 
-        }h1{
+
+        h1{
             text-align: center;
+            color: aliceblue;
+            font-weight: bold;
         }
-        img{
-            width: 100%;
+
+        .img_corpo{
+            width: 50%;
         }
+
         figure{
             text-align: center;
+        }
+
+        .img_topo{
+            width: 100%;
+        }
+        p{
+            font-size: 1.5em;
+            color: cyan;
+            font-weight: bold;
+            text-indent: 50px;
+            text-align: justify;
+
+
+
         }
            
 
