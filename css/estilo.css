@@ -1,6 +1,8 @@
 body{
-background-color: #7B68EE
-
+background-image: url("https://www.webradiohorizonte.com.br/admin/data/img/gallery/Bg/fundo-abstrato-colorido_23-2148807053.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
 
 }
         .container{
@@ -40,5 +42,6 @@ background-color: #7B68EE
 
 body {
 
-    text-align: center;
+    text-align: center
+    
 }
