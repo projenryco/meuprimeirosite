@@ -1,10 +1,18 @@
 body{
-background-image: url("https://i.pinimg.com/originals/3e/5d/91/3e5d911b47313d52426a462d464aa93f.gif");
+background-image: url(https://cutewallpaper.org/25/animated-gif-for-laptop-wallpaper/razer-lights-gif-razer-lights-changingcolors-discover-amp-share-gifs--galaxy-phone-wallpaper-razer-wallpaper-pc.gif);
 background-repeat: no-repeat;
 background-size: cover;
 background-attachment: fixed;
 
 }
+html {
+    scroll-behavior: smooth;
+}
+footer{
+    background-color: purple;
+}
+ 
+
         .container{
             width: 80%;
             margin: auto;
