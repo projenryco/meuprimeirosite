@@ -13,35 +13,45 @@ footer{
 }
  
 
-        .container{
-            width: 80%;
-            margin: auto;
+.container{
+     width: 80%;
+     margin: auto;
         }
 
+.menu{
+    background-color: rgba(0,0,139) ;
+    padding: 2%;
 
-        h1{
-            text-align: center;
-            color: aliceblue;
-            font-weight: bold;
-        }
 
-        .img_corpo{
-            width: 50%;
-        }
+}
 
-        figure{
-            text-align: center;
-        }
 
-        .img_topo{
-            width: 100%;
-        }
-        p{
-            font-size: 1.5em;
-            color: cyan;
-            font-weight: bold;
-            text-indent: 50px;
-            text-align: justify;
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+     }
+
+.img_corpo{
+     width: 50%;
+     }
+
+figure{
+     text-align: center;
+     margin-top: 1,5%;
+     margin-bottom: 1,5%
+     }
+     
+
+    .img_topo{
+     width: 100%;
+     }
+    p{
+        font-size: 1.5em;
+        color: cyan;
+        font-weight: bold;
+        text-indent: 50px;
+        text-align: justify;
 
 
 
