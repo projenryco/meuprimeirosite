@@ -1,5 +1,5 @@
 body{
-background-image: url(https://cutewallpaper.org/25/animated-gif-for-laptop-wallpaper/razer-lights-gif-razer-lights-changingcolors-discover-amp-share-gifs--galaxy-phone-wallpaper-razer-wallpaper-pc.gif);
+background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20190728/pngtree-purple-abstract-4k-free-wallpaper-background-download-png-and-psd-files-image_285854.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 background-attachment: fixed;
@@ -8,7 +8,7 @@ background-attachment: fixed;
 html {
     scroll-behavior: smooth;
 }
-footer{
+.footer{
     background-color: purple;
 }
  
@@ -26,7 +26,7 @@ footer{
 }
 
 
-h1{
+.h1{
     text-align: center;
     color: aliceblue;
     font-weight: bold;
@@ -36,7 +36,7 @@ h1{
      width: 50%;
      }
 
-figure{
+.figure{
      text-align: center;
      margin-top: 1,5%;
      margin-bottom: 1,5%
@@ -46,12 +46,13 @@ figure{
     .img_topo{
      width: 100%;
      }
-    p{
+.p{
         font-size: 1.5em;
         color: cyan;
         font-weight: bold;
         text-indent: 50px;
         text-align: justify;
+        line-height: 1.5;
 
 
 
@@ -63,3 +64,51 @@ body {
     text-align: center
     
 }
+
+.itens_menu a:link, .itens_menu a:visited  {
+    color: #fff;
+    text-decoration: none;
+  }
+
+.itens_menu a:hover{
+    background-color: #4F4F4F;
+    padding: 0.8%;
+}
+
+.itens_menu a:active{
+    color: black;
+}
+
+#mais{
+    text-decoration: none;
+    color: ;
+}
+.center{
+    text-align: center;
+}
+.botao{
+    width: 100px;
+    height: 40px;   
+    background-color: rgba(128,128,128, 0.5);
+    margin: auto; 
+    padding: 1.5%;
+    border-radius: 25px;
+}
+
+.botao p{
+    text-indent: 0;
+    text-align: center;
+}
+    
+
+.botao a:link, .botao a:visited{
+    color: black;
+
+}
+
+.botao:hover{
+    background-color:#00FFFF;
+}
+
+
+
