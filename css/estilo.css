@@ -10,13 +10,20 @@ html {
 }
 .footer{
     background-color: purple;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-top: 2%;s
+}
+.footer p{
+
+    font-size: 1em;
 }
  
 
 .container{
      width: 80%;
      margin: auto;
-        }
+ }
 
 .menu{
     background-color: rgba(0,0,139) ;
@@ -40,6 +47,7 @@ html {
      text-align: center;
      margin-top: 1,5%;
      margin-bottom: 1,5%
+     
      }
      
 
@@ -47,7 +55,7 @@ html {
      width: 100%;
      }
 .p{
-        font-size: 1.5em;
+        font-size: 3em;
         color: cyan;
         font-weight: bold;
         text-indent: 50px;
@@ -85,7 +93,24 @@ body {
 }
 .center{
     text-align: center;
+    
 }
+
+.direita{
+    float: right;
+    margin-left: 2%;
+    width: 30%;
+
+}
+.esquerda{
+    float: left;
+    margin-right: 2%;
+    width: 30%;
+
+
+}
+
+
 .botao{
     width: 100px;
     height: 40px;   
@@ -109,6 +134,12 @@ body {
 .botao:hover{
     background-color:#00FFFF;
 }
+.sitens_menu a:link, .itens_menu a:visited  {
+    color: #FFA07A;
+    text-decoration: none;
+    font-weight: bolder;
+  }
+
 
 
 
