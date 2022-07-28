@@ -8,13 +8,13 @@ background-attachment: fixed;
 html {
     scroll-behavior: smooth;
 }
-.footer{
+footer{
     background-color: purple;
     padding-top: 2%;
     padding-bottom: 2%;
     margin-top: 2%;s
 }
-.footer p{
+footer p{
 
     font-size: 1em;
 }
@@ -32,18 +32,24 @@ html {
 
 }
 
-
-.h1{
+h1{
     text-align: center;
     color: aliceblue;
     font-weight: bold;
+}
+h1{
+    font-size: 2em;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    
+    font-family: 'Staatliches',cursive;
      }
 
 .img_corpo{
      width: 50%;
      }
 
-.figure{
+figure{
      text-align: center;
      margin-top: 1,5%;
      margin-bottom: 1,5%
@@ -51,16 +57,17 @@ html {
      }
      
 
-    .img_topo{
+.img_topo{
      width: 100%;
      }
-.p{
-        font-size: 3em;
+p{
+        font-size: 1.3em;
         color: cyan;
         font-weight: bold;
         text-indent: 50px;
         text-align: justify;
         line-height: 1.5;
+        font-family: 'Comfortaa',cursive;
 
 
 
@@ -134,12 +141,19 @@ body {
 .botao:hover{
     background-color:#00FFFF;
 }
-.sitens_menu a:link, .itens_menu a:visited  {
+.itens_menu a:link, .itens_menu a:visited  {
     color: #FFA07A;
     text-decoration: none;
     font-weight: bolder;
   }
+table{
+    width: 100%;
+}
+table{
 
+border: #4F4F4F;
+padding: 1.5%;
+}
 
 
 
