@@ -154,6 +154,28 @@ table{
 border: #4F4F4F;
 padding: 1.5%;
 }
+td:first-child { 
+    width: 40%;  
+}
+td:first-child + td {  
+    width: 60%; 
+}
+
+th{
+
+    font-size: 1.5em;
+    font-weight: bolder;
+    color;  
+
+}
+
+audio{
+    width: 80%;
+}
+
+audio::-webkit-media-controls-panel{ 
+    background-color:#FF6347 !important; 
+}
 
 
 
